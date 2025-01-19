@@ -86,6 +86,15 @@ node main.js
 - 时间以DD:HH:MM格式显示
 - 控制台输出采用彩色编码以提高可读性
 
-## 许可证
 
-本项目采用MIT许可证 - 详情请参阅LICENSE文件
+## 购买代理（可选）
+
+- 免费静态住宅代理：
+   - [WebShare](https://www.webshare.io/?referral_code=gtw7lwqqelgu)
+   - [ProxyScrape](https://proxyscrape.com/)
+   - [MonoSans](https://github.com/monosans/proxy-list)
+- 付费高级静态住宅代理：
+   - [922proxy](https://www.922proxy.com/register?inviter_code=d6416857)
+   - [Proxy-Cheap](https://app.proxy-cheap.com/r/Pd6sqg)
+   - [Infatica](https://dashboard.infatica.io/aff.php?aff=580)
+
